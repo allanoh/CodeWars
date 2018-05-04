@@ -1,2 +1,2 @@
-# CodeWars
-solutions to the codewars challenges.written in python.
+# Python-Problems.
+This repository contains solutions to various challenges written in python.
